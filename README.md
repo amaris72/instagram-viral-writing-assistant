@@ -59,9 +59,3 @@ To run this project, you need the following:
 - **`utils_ins.py`**: Contains the function to generate Instagram content using OpenAI.
 - **`prompt_template_ins.py`**: Defines the system and user prompts for generating content.
 - **`ins_model.py`**: Defines the data model for Instagram content using Pydantic.
-
-## Acknowledgments
-
-- [OpenAI](https://openai.com/) for providing the powerful language model.
-- [Streamlit](https://streamlit.io/) for the easy-to-use web framework.
-```
