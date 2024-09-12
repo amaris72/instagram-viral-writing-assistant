@@ -4,7 +4,6 @@
 
 The Instagram Viral Writing Assistant is a Python-based application designed to help users generate engaging and viral content for Instagram. Using OpenAI's language model, this tool allows users to input a theme and receive creative titles and content tailored for social media.
 
-<img width="325" alt="image" src="https://github.com/user-attachments/assets/ddc32bd2-b2e8-4684-9f2b-980bd3196711">
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/29950d86-4624-4ff8-b66c-0145fb7b1eea">
 
 
